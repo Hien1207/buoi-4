@@ -15,10 +15,10 @@ Nội dung bài học buổi 4:
      2) Sau đó, Trong các phần tử đã load nếu có phần tử con thì thực hiện lại bước (1)
 * VueCLI :
   - Vue router :router thực chất là định nghĩa cách url để ứng dụng điều hướng tới đúng hàm, đúng component xử lý nó (chuyển đổi component).Vue route có rất nhiều tính năng, ngoài tính năng chính là route thì nó còn hỗ trợ thêm các tính năng đặc trưng của ứng dụng front-end, có thể kể đến như:
-           + Hỗ trợ mapping lồng nhau route/view
-           + Route params, query, wildcards.
-           + Hỗ trợ liên kết với CSS một cách tự động
-           + Là một fine-grained Navigation
-           + Hỗ trợ tùy chỉnh hành vi Scroll của người dùng.
+           - Hỗ trợ mapping lồng nhau route/view
+           - Route params, query, wildcards.
+           - Hỗ trợ liên kết với CSS một cách tự động
+           - Là một fine-grained Navigation
+           - Hỗ trợ tùy chỉnh hành vi Scroll của người dùng.
   - Vuex (state management) :là thư viện giúp quản lý trạng thái các component trong Vue.js, nó là nơi lưu trữ tập trung cho tất cả các component trong một ứng dụng, với nguyên tắc trạng thái chỉ có thể được thay đổi theo kiểu có thể dự đoán.
 * Install: bootstrap,devtool,VueCLI
