@@ -9,8 +9,8 @@ Nội dung bài học buổi 4:
   - Name slot: ta có thể tạo ra nhiều slot bằng cách đặt cho chúng một cái tên cố định.
   - Scope slot :cho phép component cha sử dụng đến component con có dùng scope có thể tái sử dụng logic bên trong component con.
 * Đệ quy component(Tree) : ứng dụng để hiển thị dữ liệu dạng cây, sidebar
- - Quy tắc : data nằm phía trên cây cha
- - Đệ quy component cơ bản:
+   - Quy tắc : data nằm phía trên cây cha
+   - Đệ quy component cơ bản:
      1) Duyệt qua mảng, load content các phần tử và qua bước (2)
      2) Sau đó, Trong các phần tử đã load nếu có phần tử con thì thực hiện lại bước (1)
 * VueCLI :
